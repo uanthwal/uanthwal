@@ -53,7 +53,7 @@ I'm **Upendra**, a master's student 👨‍🎓  at **Dalhousie University**, �
   <img src="https://github.com/uanthwal/uanthwal/blob/master/icons/icons8-facebook-240.png" width="28px" alt="fb-img"/>
   </a>
 
-  <a href="https://www.instagram.com/uppianthwal/" target="_blank">
+  <a href="https://www.instagram.com/upendra.anthwal/" target="_blank">
   <img src="https://github.com/uanthwal/uanthwal/blob/master/icons/icons8-instagram-240.png" width="28px" alt="ig-img"/>
   </a>
 
