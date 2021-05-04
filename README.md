@@ -4,7 +4,7 @@ I'm **Upendra**, a master's student 👨‍🎓  at **Dalhousie University**, �
 
 #### Education
 
-- **Dalhousie University**, Master of Applied Computer Science (September 2019 - Present), 🇨🇦 .
+- **Dalhousie University**, Master of Applied Computer Science (September 2019 - April 2021), 🇨🇦 .
 - **University of Petroleum & Energy Studies**, Bachelor of Technology, Computer Science (July 2011 - May 2015), 🇮🇳 .
 
 #### Technical Skills
