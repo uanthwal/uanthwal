@@ -1,6 +1,6 @@
 ### Hello World 👋👋, Welcome to my GitHub profile. ###
 
-I'm **Upendra**, a master's student 👨‍🎓  at **Dalhousie University**, 🇨🇦.
+I'm **Upendra**, a Software Developer.
 
 #### Education
 
